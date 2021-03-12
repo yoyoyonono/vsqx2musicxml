@@ -1,3 +1,6 @@
+input/*.vsqx
+.vscode/
+output/*.musicxml
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
